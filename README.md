@@ -2,7 +2,7 @@
 
 Here you can find my public repositories organised into categories:
 
-| Linux Applications | Shell Programmes  | Science                 | Libraries        | Scrapers/Bots           | Plugins     |
+| Linux Applications | CLI Programmes  | Science                 | Libraries        | Scrapers/Bots           | Plugins     |
 |--------------------|-------------------|-------------------------|------------------|-------------------------|-------------|
 | [dwm-xphyro](https://github.com/XPhyro/dwm-xphyro)         | [sh](https://github.com/XPhyro/sh)                | [atomic-friction](https://github.com/XPhyro/atomic-friction)         | [py_num_helper](https://github.com/XPhyro/py_num_helper)    | [amazon-image-downloader](https://github.com/XPhyro/amazon-image-downloader) | [toggle-bool](https://github.com/XPhyro/toggle-bool) |
 | [st-xphyro](https://github.com/XPhyro/st-xphyro)          | [sumsize](https://github.com/XPhyro/sumsize)           | [py-conjecture](https://github.com/XPhyro/py-conjecture)           | [py_matrix_helper](https://github.com/XPhyro/py_matrix_helper) | [discord-retweet-bot](https://github.com/XPhyro/discord-retweet-bot)     |             |
