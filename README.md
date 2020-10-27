@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+| Linux Applications | Libraries        | Science                 | Scrapers/Bots           | Shell Programmes  | Plugins     |
+|--------------------|------------------|-------------------------|-------------------------|-------------------|-------------|
+| [dwm-xphyro](https://github.com/XPhyro/dwm-xphyro)         | [py_num_helper](https://github.com/XPhyro/py_num_helper)    | [atomic-friction](https://github.com/XPhyro/atomic-friction)         | [amazon-image-downloader](https://github.com/XPhyro/amazon-image-downloader) | [sh](https://github.com/XPhyro/sh)                | [toggle-bool](https://github.com/XPhyro/toggle-bool) |
+| [st-xphyro](https://github.com/XPhyro/st-xphyro)          | [py_matrix_helper](https://github.com/XPhyro/py_matrix_helper) | [py-conjecture](https://github.com/XPhyro/py-conjecture)           | [discord-retweet-bot](https://github.com/XPhyro/discord-retweet-bot)     | [sumsize](https://github.com/XPhyro/sumsize)           |             |
+| [dmenu-xphyro](https://github.com/XPhyro/dmenu-xphyro)       | [py_input_helper](https://github.com/XPhyro/py_input_helper)  | [py-series](https://github.com/XPhyro/py-series)               | [discord-corona-bot](https://github.com/XPhyro/discord-corona-bot)      | [eternal-magic-bot](https://github.com/XPhyro/eternal-magic-bot) |             |
+| [sxiv-xphyro](https://github.com/XPhyro/sxiv-xphyro)        |                  | [py-sequences](https://github.com/XPhyro/py-sequences)            | [gpupmanager](https://github.com/XPhyro/gpupmanager)             |                   |             |
+| [htop-xphyro](https://github.com/XPhyro/htop-xphyro)        |                  | [persistence-of-a-number](https://github.com/XPhyro/persistence-of-a-number) | [eternal_magic-bot](https://github.com/XPhyro/eternal_magic-bot)       |                   |             |
+
 <!--
 **XPhyro/XPhyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
