@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here you can find my public repositories organised into categories:
+
 | Linux Applications | Shell Programmes  | Science                 | Libraries        | Scrapers/Bots           | Plugins     |
 |--------------------|-------------------|-------------------------|------------------|-------------------------|-------------|
 | [dwm-xphyro](https://github.com/XPhyro/dwm-xphyro)         | [sh](https://github.com/XPhyro/sh)                | [atomic-friction](https://github.com/XPhyro/atomic-friction)         | [py_num_helper](https://github.com/XPhyro/py_num_helper)    | [amazon-image-downloader](https://github.com/XPhyro/amazon-image-downloader) | [toggle-bool](https://github.com/XPhyro/toggle-bool) |
@@ -8,17 +10,4 @@
 | [sxiv-xphyro](https://github.com/XPhyro/sxiv-xphyro)        |                   | [py-sequences](https://github.com/XPhyro/py-sequences)            |                  | [gpupmanager](https://github.com/XPhyro/gpupmanager)             |             |
 | [htop-xphyro](https://github.com/XPhyro/htop-xphyro)        |                   | [persistence-of-a-number](https://github.com/XPhyro/persistence-of-a-number) |                  | [eternal_magic-bot](https://github.com/XPhyro/eternal_magic-bot)       |             |
 
-<!--
-**XPhyro/XPhyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repositories under the categories "Linux Applications" and "Plugins" are forks, whereas all else are original.
