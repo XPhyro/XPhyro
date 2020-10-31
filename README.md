@@ -9,6 +9,6 @@ Here are my public repositories organised into categories:
 | [dmenu-xphyro](https://github.com/XPhyro/dmenu-xphyro) | [eternal-magic-bot](https://github.com/XPhyro/eternal-magic-bot) | [py-series](https://github.com/XPhyro/py-series) | [py_input_helper](https://github.com/XPhyro/py_input_helper) | [discord-corona-bot](https://github.com/XPhyro/discord-corona-bot) | |
 | [sxiv-xphyro](https://github.com/XPhyro/sxiv-xphyro) | [archinstall](https://github.com/XPhyro/archinstall) | [py-sequences](https://github.com/XPhyro/py-sequences) | [dotfiles](https://github.com/XPhyro/dotfiles) | [discord-currency-bot](https://github.com/XPhyro/discord-currency-bot) | |
 | [htop-xphyro](https://github.com/XPhyro/htop-xphyro) | | [persistence-of-a-number](https://github.com/XPhyro/persistence-of-a-number) | | [eternal_magic-bot](https://github.com/XPhyro/eternal_magic-bot) |  |
-| | | | | [gpupmanager](https://github.com/XPhyro/gpupmanager) | |
+| [tabbed-xphyro](https://github.com/XPhyro/tabbed-xphyro) | | | | [gpupmanager](https://github.com/XPhyro/gpupmanager) | |
 
 Repositories under the categories "Linux Applications" and "Plugins" are forks, whereas all else are original.
