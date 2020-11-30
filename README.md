@@ -12,3 +12,5 @@ Here are my public repositories organised into categories:
 | [tabbed-xphyro](https://github.com/XPhyro/tabbed-xphyro) | | | | [gpupmanager](https://github.com/XPhyro/gpupmanager) | |
 
 Repositories under the categories "Linux Applications" and "Plugins" are forks, whereas all else are original.
+
+P.S.: Don't be baffled by my contributions/day or contribution streak. It's just my dotfile back-up script doing its job.
