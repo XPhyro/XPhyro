@@ -15,4 +15,4 @@ Repositories under the categories "Linux Applications" and "Plugins" are forks, 
 
 P.S.: Don't be baffled by my contributions/day or contribution streak. It's just my dotfile back-up [script](https://github.com/XPhyro/dotfiles/blob/master/dotfilesbak) doing its job.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=XPhyro)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=XPhyro&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
