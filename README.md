@@ -10,6 +10,7 @@ Here are my public repositories organised into categories:
 | [sxiv-xphyro](https://github.com/XPhyro/sxiv-xphyro)     | [sumsize](https://github.com/XPhyro/sumsize)                     | [py-sequences](https://github.com/XPhyro/py-sequences)                       | [dotfiles](https://github.com/XPhyro/dotfiles)                 | [discord-currency-bot](https://github.com/XPhyro/discord-currency-bot)       |                                                      |
 | [htop-xphyro](https://github.com/XPhyro/htop-xphyro)     | [eternal-magic-bot](https://github.com/XPhyro/eternal-magic-bot) | [persistence-of-a-number](https://github.com/XPhyro/persistence-of-a-number) |                                                                | [eternal_magic-bot](https://github.com/XPhyro/eternal_magic-bot)             |                                                      |
 | [tabbed-xphyro](https://github.com/XPhyro/tabbed-xphyro) | [archinstall](https://github.com/XPhyro/archinstall)             |                                                                              |                                                                | [gpupmanager](https://github.com/XPhyro/gpupmanager)                         |                                                      |
+| [dvtm-xphyro](https://github.com/XPhyro/dvtm-xphyro) | | | | | |
 
 Repositories under the categories "Linux Applications" and "Plugins" are forks, whereas all else are original.
 
