@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Here are my public repositories organised into categories:
 
 | Linux Applications                                       | CLI Programmes                                                   | Science                                                                      | Libraries                                                      | Scrapers/Bots                                                                | Plugins                                              |
