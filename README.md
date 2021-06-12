@@ -12,6 +12,4 @@ Here are my public repositories organised into categories:
 
 Repositories under the categories "Linux Applications" and "Plugins" are forks, whereas all else are original.
 
-P.S.: *Don't be baffled by my contributions per day or contribution streak. It's just my dotfile back-up [script](https://github.com/XPhyro/dotfiles/blob/master/dotfilesbak) doing its job.* To find a rough estimate of the actual values, simply assume about 10 automatic commits, effective since mid-2020.
-
 [![My github stats](https://github-readme-stats.vercel.app/api?username=XPhyro&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
