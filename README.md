@@ -13,4 +13,4 @@ Here are my public repositories organised into categories:
 Repositories under the categories "Linux Applications" and "Plugins" are forks, whereas all else are original.
 
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=XPhyro&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XPhyro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XPhyro&layout=compact&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
