@@ -1,5 +1,5 @@
 | CLI Utilities | Research | Libraries |
-|---|---|---|---|
+|---|---|---|
 | [scripts](https://github.com/XPhyro/scripts) | [atomic-friction](https://github.com/XPhyro/atomic-friction) | [py_input_helper](https://github.com/XPhyro/py_input_helper) |
 | [archinstall](https://github.com/XPhyro/archinstall) | [image-entropy](https://github.com/XPhyro/image-entropy) | [dotfiles](https://github.com/XPhyro/dotfiles) |
 | | | |
