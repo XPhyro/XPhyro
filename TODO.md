@@ -1,0 +1,2 @@
+- Maybe add `XPhyro/scripts` as an image pin?
+  - See <https://github.com/anuraghazra/github-readme-stats#github-extra-pins>.
