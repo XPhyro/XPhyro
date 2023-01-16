@@ -24,5 +24,7 @@
 
 # Statistics
 
+[![My GitHub Statistics](https://github-readme-stats-xphyro.vercel.app/api?username=XPhyro&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My GitHub Statistics](https://raw.githubusercontent.com/XPhyro/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
 [![My Top Languages](https://raw.githubusercontent.com/XPhyro/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
