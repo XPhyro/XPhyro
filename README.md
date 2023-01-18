@@ -4,8 +4,8 @@
 
 - [scripts](https://github.com/XPhyro/scripts): A collection of over 300
   scripts, utilities and libraries for Unix-like operating systems, written
-  in/for various languages such as Awk, Bash, C, C++, execline, Perl, Python,
-  POSIX Shell.
+  in/for various languages such as Awk, Bash, C, C++, execline, Perl, Python
+  and POSIX Shell.
 
 ## Research
 
