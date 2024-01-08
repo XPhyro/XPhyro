@@ -16,10 +16,8 @@
   BSc thesis regarding entropy extraction from physical sources using both
   traditional algorithmic methods and machine learning.
 
-## Libraries
+## Other
 
-- [py_input_helper](https://github.com/XPhyro/py_input_helper): A helper
-  library to get user input in Python.
 - [dotfiles](https://github.com/XPhyro/dotfiles): My personal dotfiles.
 
 # Statistics
