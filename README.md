@@ -12,9 +12,6 @@
 - [atomic-friction](https://github.com/XPhyro/atomic-friction): A real-time
   graphical simulation of atomic-scale dry-sliding friction, written in C#
   using the Unity game engine.
-- [image-entropy](https://github.com/XPhyro/image-entropy): The codebase of my
-  BSc thesis regarding entropy extraction from physical sources using both
-  traditional algorithmic methods and machine learning.
 
 ## Other
 
