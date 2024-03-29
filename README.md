@@ -13,10 +13,6 @@
   graphical simulation of atomic-scale dry-sliding friction, written in C#
   using the Unity game engine.
 
-## Other
-
-- [dotfiles](https://github.com/XPhyro/dotfiles): My personal dotfiles.
-
 # Statistics
 
 [![My GitHub Statistics](https://github-readme-stats-xphyro.vercel.app/api?username=XPhyro&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
