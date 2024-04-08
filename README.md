@@ -2,7 +2,7 @@
 
 ## CLI Utilities
 
-- [scripts](https://github.com/XPhyro/scripts): A collection of over 450
+- [scripts](https://github.com/XPhyro/scripts): A collection of over 470
   scripts, utilities and libraries for Unix-like operating systems, OBS plugins
   and browser extensions, written in various languages such as Awk, Bash, C,
   C++, execline, JavaScript, POSIX Shell, Perl, Python and Rust.
